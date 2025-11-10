@@ -34,6 +34,13 @@ soap-cxf-service/
 └── RESUME-FINAL.md                    # Résumé et état du projet
 ```
 
+
+<img width="1902" height="1149" alt="Screenshot 2025-11-11 002508" src="https://github.com/user-attachments/assets/64c71a52-13db-453d-aa05-ff3703009dd2" />
+<img width="1859" height="1069" alt="Screenshot 2025-11-11 002440" src="https://github.com/user-attachments/assets/1599275f-0932-42e5-bfc8-4fd2fad257f8" />
+<img width="1907" height="1137" alt="Screenshot 2025-11-11 001356" src="https://github.com/user-attachments/assets/a869477b-141c-4dfc-86c5-88b34f95beab" />
+<img width="1904" height="1128" alt="Screenshot 2025-11-11 001349" src="https://github.com/user-attachments/assets/023e8a4e-95a4-483b-9044-ee6926f7ac3e" />
+
+
 ## 🔧 Technologies Utilisées
 
 - **Java 11+**
